@@ -1,2 +1,20 @@
-# frontend-boilerplate
-front-end boilerplate for html, js, Sass and Gulp 4
+# Front-end Boilerplate using Sass and Gulp 4
+
+Simple boilerplate for front-end websites that use HTML, SCSS and JS. 
+Gulp to compile, prefix, and minify the files.
+
+## Quickstart guide
+
+* Clone or download this Git repo onto your computer.
+* Install [Node.js](https://nodejs.org/en/) if you don't have it yet.
+* Run `npm install`
+* Run `gulp` to run the default Gulp task
+
+In this project, Gulp is configured to run the following functions:
+
+* Compile the SCSS files to CSS
+* Autoprefix and minify the CSS file
+* Concatenate the JS files
+* Uglify the JS files
+* Move final CSS and JS files to the `/dist` folder
+ 
