@@ -1,6 +1,6 @@
 # Front-end Boilerplate using Sass and Gulp 4
 
-Simple boilerplate for front-end websites that use HTML, SCSS and JS. 
+Simple boilerplate for front-end websites that use HTML, SCSS and JS.  
 Gulp to compile, prefix, and minify the files.
 
 ## Quickstart guide
@@ -16,5 +16,4 @@ In this project, Gulp is configured to run the following functions:
 * Autoprefix and minify the CSS file
 * Concatenate the JS files
 * Uglify the JS files
-* Move final CSS and JS files to the `/dist` folder
- 
+* Move final CSS and JS files to the `/dist` folder  
